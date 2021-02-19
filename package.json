@@ -1,0 +1,21 @@
+{
+  "name": "test-javascript",
+  "version": "1.0.0",
+  "description": "test programs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ashwini",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "dependencies": {
+    "chai-sorted": "^0.2.0"
+  }
+}
